@@ -1,8 +1,8 @@
 # Hello, I'm Ritwik! 🤗
 
 # 💫 About Me:
-🏢 I'm a software engineer with 3+ years of experience in developing CAD softwares using C++, C# and Python.<br>
-🔭 I’m currently working on React, Spring  and MySQL<br>👯 I’m always looking to collaborate in learning activities and developing new software<br>🌱 I’m currently learning Spring framework, AWS & docker.<br>🏫 I would love to learn more about design patterns & system design concepts.<br>⚡ Fun fact: I believe C# is better than Java (Hope 🤞 I'm not the only one)<br>😊 Thank you for visiting my GitHub profile. Feel free to contact me.
+🏢 I'm a software engineer with 3+ years of experience in developing CAD softwares using C++, Java and Python.<br>
+🔭 I’m currently working on React, Spring and MySQL<br>👯 I’m always looking to collaborate in learning activities and developing new software<br>🌱 I’m currently learning Spring framework, AWS & Docker.<br>🏫 I would love to learn more about design patterns & system design concepts.<br>⚡ Fun fact: I believe C# is better than Python (Hope 🤞 I'm not the only one)<br>😊 Thank you for visiting my GitHub profile. Feel free to contact me.
 
 
 ## 🌐 Socials:
